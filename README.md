@@ -1,6 +1,7 @@
 # CS121_search_engine
 
 CS121 Information Retrieval Assignment 3
+
 This program contains two main parts: index building and query searching
 
 # Building the Index
